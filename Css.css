@@ -1,0 +1,49 @@
+.text-align{
+    padding-left: 38%;
+}
+
+.container{
+    background-color: rgb(231, 228, 228);
+    padding-left: 37%;
+    
+}
+.left-bar{
+    margin-left: 8%;
+}
+p{
+    padding-left: 9%;
+}
+
+.content{
+    float: left;
+    display: flex;
+    text-align:center;
+}
+.card1{
+    width: 570px; 
+    padding: 2%;
+    float: left;
+    margin:2px 2px 20px 0;
+    background-color:  rgb(54, 227, 219);
+    
+}
+.card2{
+    width: 200px;
+    padding: 2%;
+    float: left;
+    margin:2px 2px 20px 0;
+    background-color:  rgb(40, 196, 188);
+   
+}
+.card3{
+    width: 705px;
+    float: left;
+    margin: 2px 2px 20px 0;
+    padding: 2%;
+    background-color:  rgb(37, 180, 173);
+    
+}
+.footer{
+    margin-left: 550px;;
+}
+
